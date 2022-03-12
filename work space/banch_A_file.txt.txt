@@ -1,1 +1,2 @@
  branch A file  this will be commited from branch a 
+new line 
